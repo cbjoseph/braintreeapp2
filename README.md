@@ -1,1 +1,1 @@
-1. No special pieces o
+No special pieces instructions.  Will need to replace with own API_KEYS. 
